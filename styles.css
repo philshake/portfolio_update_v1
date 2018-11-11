@@ -54,7 +54,9 @@ a:hover {
 .nav a:hover {
   color: white
 }
-
+.experience {
+  font-transform: del;
+}
 header {
   text-align: center;
   background: url('images/Kingston.jpeg') no-repeat top center ;
